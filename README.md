@@ -1,3 +1,5 @@
+
+
 🚀 Laravel 11 + Supabase PostgreSQL
 
 Documentación técnica de arquitectura, configuración, diagnóstico y resolución de conectividad entre Laravel 11 y una base de datos PostgreSQL en Supabase Cloud.
@@ -50,7 +52,9 @@ could not translate host name
 to address: Unknown host
 🔍 Diagnóstico
 Validación DNS del sistema operativo
-nslookup db.[project-id].supabase.co
+
+https://github.com/user-attachments/assets/5ee0535f-bb53-4931-ae93-af4e5439da58
+
 
 Resultado:
 
